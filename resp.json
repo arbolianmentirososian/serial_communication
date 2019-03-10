@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "series": [
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "4",
+            "DCM_192_168_29_57",
+            "1",
+            "CN_Margin",
+            9.7
+          ]
+        },
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "5",
+            "DCM_192_168_29_58",
+            "2",
+            "CN_Margin",
+            10.7
+          ]
+        },
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "4",
+            "DCM_192_168_29_57",
+            "3",
+            "CN_Margin",
+            9.2
+          ]
+        },
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "4",
+            "DCM_192_168_29_57",
+            "4",
+            "CN_Margin",
+            14.7
+          ]
+        },
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "4",
+            "DCM_192_168_29_57",
+            "5",
+            "CN_Margin",
+            12.7
+          ]
+        },
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "4",
+            "DCM_192_168_29_57",
+            "6",
+            "CN_Margin",
+            13.7
+          ]
+        },
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "4",
+            "DCM_192_168_29_57",
+            "7",
+            "CN_Margin",
+            10.1
+          ]
+        },
+        {
+          "name": "DVBS2",
+          "columns": [
+            "time",
+            "board",
+            "host",
+            "port",
+            "type",
+            "value"
+          ],
+          "values": [
+            "2018-11-22T17:34:02.408636495Z",
+            "4",
+            "DCM_192_168_29_57",
+            "8",
+            "CN_Margin",
+            9.8
+          ]
+        }
+      ]
+    }
+  ]
+}
